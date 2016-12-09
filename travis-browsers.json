@@ -2,7 +2,7 @@
   {
     "browserName":  "microsoftedge",
     "platform":     "Windows 10",
-    "version":      ""
+    "version":      "14"
   },
   {
     "browserName":  "internet explorer",
@@ -11,7 +11,7 @@
   },
   {
     "browserName":  "safari",
-    "platform":     "OS X 10.1",
+    "platform":     "OS X 10.11",
     "version":      "10"
   },
   {
