@@ -20,12 +20,12 @@
     "platform":     "OS X 10.11",
     "version":      "9"
   },
+  
   {
     "browserName":  "chrome",
     "platform":     "Linux",
     "version":      "dev"
   },
-  
   {
     "browserName":  "chrome",
     "platform":     "Windows 10",
