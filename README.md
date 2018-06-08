@@ -1,7 +1,10 @@
-[![NPM version](http://img.shields.io/npm/v/wct-sauce.svg?style=flat-square)](https://npmjs.org/package/wct-sauce)
-[![Build Status](http://img.shields.io/travis/Polymer/web-component-tester.svg?style=flat-square)](https://travis-ci.org/Polymer/web-component-tester)
-[![Gitter](http://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg?style=flat-square)](https://gitter.im/Polymer/web-component-tester)
+## 🚨 Moved to [`Polymer/tools/packages/wct-sauce`][1] 🚨
 
-Sauce Labs support for [web-component-tester](https://github.com/Polymer/web-component-tester).
+The [`Polymer/wct-sauce`][2] repo has been migrated to [`packages/wct-sauce`][1] folder of the [`Polymer/tools`][3] 🚝  *monorepo*.
 
-This is currently a dependency of WCT, and tested via it.
+We are *actively* working on migrating open Issues and PRs to the new repo. New Issues and PRs should be filed at [`Polymer/tools`][3].
+
+[1]: https://github.com/Polymer/tools/tree/master/packages/wct-sauce
+[2]: https://github.com/Polymer/wct-sauce
+[3]: https://github.com/Polymer/tools
+
